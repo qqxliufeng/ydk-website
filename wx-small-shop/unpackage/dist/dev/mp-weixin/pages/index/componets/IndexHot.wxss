@@ -1,0 +1,81 @@
+.h-h-hot-container.data-v-3000c649 {
+  border-top: #f5f5f5 solid 10rpx;
+}
+.h-h-hot-container .title.data-v-3000c649 {
+  color: #333;
+  font-size: 28.000000000000004rpx;
+  padding: 20rpx 20rpx;
+}
+.h-h-hot-container .item-container.data-v-3000c649 {
+  width: 100%;
+  height: 450rpx;
+}
+.h-h-hot-container .item-container .h-h-hot-card.data-v-3000c649 {
+  height: 100%;
+  padding: 2% 0;
+  white-space: nowrap;
+}
+.h-h-hot-container .item-container .h-h-hot-card .h-h-hot-wrapper.data-v-3000c649 {
+  display: inline-block;
+  overflow: hidden;
+  position: relative;
+  width: 35%;
+  margin: 0 2%;
+  border-radius: 5px;
+  border: #f5f5f5 solid 1px;
+  -webkit-box-shadow: 0 2px 12px 0 rgba(0,0,0,0.1);
+          box-shadow: 0 2px 12px 0 rgba(0,0,0,0.1);
+}
+.h-h-hot-container .item-container .h-h-hot-card .h-h-hot-wrapper .h-h-hot-image-wrapper.data-v-3000c649 {
+  height: 270rpx;
+}
+.h-h-hot-container .item-container .h-h-hot-card .h-h-hot-wrapper .h-h-hot-image-wrapper > image.data-v-3000c649 {
+  width: 100%;
+  height: 100%;
+}
+.h-h-hot-container .item-container .h-h-hot-card .h-h-hot-wrapper .h-h-hot-wrapper-title.data-v-3000c649 {
+  color: #333;
+  font-size: 25rpx;
+  overflow: hidden;
+  white-space: nowrap;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+  padding: 25rpx 10rpx 5rpx 10rpx;
+}
+.h-h-hot-container .item-container .h-h-hot-card .h-h-hot-wrapper .h-h-hot-wrapper-sales.data-v-3000c649 {
+  overflow: hidden;
+  white-space: nowrap;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+  padding: 10rpx;
+  color: #888;
+  font-size: 20rpx;
+}
+.h-h-hot-container .item-container .h-h-hot-card .h-h-hot-wrapper .h-h-hot-wrapper-prices.data-v-3000c649 {
+  padding: 10rpx;
+  color: #ffad2c;
+  font-size: 20rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+}
+.h-h-hot-container .item-container .h-h-hot-card .h-h-hot-wrapper .h-h-hot-tag-wrapper.data-v-3000c649 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #d66962;
+  color: #fff;
+  font-size: 25rpx;
+  padding: 5rpx;
+  text-align: center;
+}
+.h-h-hot-container .item-container .h-h-hot-card .h-h-hot-wrapper .h-h-hot-tag-wrapper .tag-index-top.data-v-3000c649 {
+  font-size: 20rpx;
+  margin-bottom: 5rpx;
+}
+

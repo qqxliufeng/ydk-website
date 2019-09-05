@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "活动分享",
+  "usingComponents": {
+    "uni-qrcode": "/componets/uni/qrcode/tki-qrcode"
+  }
+}

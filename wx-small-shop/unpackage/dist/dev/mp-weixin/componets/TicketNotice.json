@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "ticket-remark": "/componets/TicketRemark"
+  },
+  "component": true
+}

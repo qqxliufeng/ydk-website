@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "订单列表",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-segement-control": "/componets/uni/uni-segmented-control",
+    "order-list-item": "/pages/order/components/OrderListItem"
+  }
+}

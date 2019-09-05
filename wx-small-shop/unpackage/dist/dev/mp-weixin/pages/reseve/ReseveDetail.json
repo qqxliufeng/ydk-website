@@ -1,0 +1,10 @@
+{
+  "navigationBarTitleText": "立即预定",
+  "usingComponents": {
+    "ticket-info": "/pages/reseve/components/TicketInfo",
+    "ticket-discount": "/pages/reseve/components/TicketDiscount",
+    "ticket-user-info": "/pages/reseve/components/TicketUserInfo",
+    "ticket-contact": "/pages/reseve/components/TicketContact",
+    "uni-icon": "/componets/uni/rate/uni-icon"
+  }
+}

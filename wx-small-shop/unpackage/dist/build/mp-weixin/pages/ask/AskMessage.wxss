@@ -1,0 +1,69 @@
+.a-m-message-content-wrapper.data-v-11b07b44 {
+  padding: 30rpx;
+}
+.a-m-message-content-wrapper .scenic-warpper.data-v-11b07b44 {
+  padding: 30rpx;
+  -webkit-box-shadow: 0 2px 12px 0 rgba(0,0,0,0.1);
+          box-shadow: 0 2px 12px 0 rgba(0,0,0,0.1);
+}
+.a-m-message-content-wrapper .a-m-message-ask-info-wrapper.data-v-11b07b44 {
+  -webkit-box-shadow: 0 2px 12px 0 rgba(0,0,0,0.1);
+          box-shadow: 0 2px 12px 0 rgba(0,0,0,0.1);
+  padding: 20rpx;
+  margin-top: 20rpx;
+  border-radius: 10rpx;
+}
+.a-m-message-content-wrapper .a-m-message-ask-info-wrapper .ask-title-wrapper.data-v-11b07b44 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  border-bottom: 1px solid #f5f5f5;
+  padding-bottom: 20rpx;
+}
+.a-m-message-content-wrapper .a-m-message-ask-info-wrapper .ask-title-wrapper text.data-v-11b07b44:nth-child(1) {
+  color: #fff;
+  font-size: 20rpx;
+  background-color: #64bbae;
+  border-radius: 8rpx;
+  width: 30rpx;
+  height: 30rpx;
+  text-align: center;
+  display: inline-block;
+  margin-top: 1rpx;
+  margin-right: 10rpx;
+  line-height: 30rpx;
+  vertical-align: middle;
+}
+.a-m-message-content-wrapper .a-m-message-ask-info-wrapper .ask-title-wrapper text.data-v-11b07b44:nth-child(2) {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  color: #555;
+  font-size: 30rpx;
+  line-height: 45rpx;
+}
+.a-m-message-content-wrapper .a-m-message-ask-info-wrapper .ask-title-wrapper .submit.data-v-11b07b44 {
+  background-color: #64bbae;
+  border-radius: 5rpx;
+  color: #fff;
+  padding: 10rpx 20rpx;
+}
+.a-m-message-content-wrapper .a-m-message-ask-info-wrapper .ask-content.data-v-11b07b44 {
+  border: 1px solid #f5f5f5;
+  width: 100%;
+  margin-top: 20rpx;
+  background-color: #f7f5f5;
+  border-radius: 10rpx;
+  padding: 20rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  display: inline-block;
+  font-size: 28rpx;
+}
+

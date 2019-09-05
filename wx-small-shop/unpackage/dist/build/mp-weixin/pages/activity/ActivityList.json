@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "活动列表",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "count-down": "/componets/uni/uni-countdown"
+  }
+}

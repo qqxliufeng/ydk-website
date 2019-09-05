@@ -1,0 +1,289 @@
+{
+	"pages": [ //pages数组中第一项表示应用启动页，参考：https://uniapp.dcloud.io/collocation/pages
+		{
+			"path": "pages/index/Splash",
+			"style":{
+				"navigationStyle":"custom"
+			}
+		},
+		{
+			"path": "pages/index/index",
+			"style": {
+				"navigationBarTitleText": "首页",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/login/Login",
+			"style": {
+				"navigationBarTitleText": "登录"
+			}
+		},
+		{
+			"path": "pages/mine/index",
+			"style": {
+				"navigationBarTitleText": "个人中心",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/custom/CustomService",
+			"style": {
+				"navigationBarTitleText": "联系客服"
+			}
+		},
+		{
+			"path": "pages/order/OrderAllList",
+			"style": {
+				"navigationBarTitleText": "订单列表",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path": "pages/order/OrderInfoPay",
+			"style": {
+				"navigationBarTitleText": "订单支付"
+			}
+		},
+		{
+			"path": "pages/order/OrderPayResult",
+			"style": {
+				"navigationBarTitleText": "支付结果"
+			}
+		},
+		{
+			"path": "pages/scenic/ScenicList",
+			"style": {
+				"navigationBarTitleText": "景区列表",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/comment/CommentList",
+			"style": {
+				"navigationBarTitleText": "评论列表",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path": "pages/scenic/ScenicDetail",
+			"style": {
+				"navigationBarTitleText": "景区详情"
+			}
+		},
+		{
+			"path": "pages/scenic/TicketDetail",
+			"style": {
+				"navigationBarTitleText": "门票详情"
+			}
+		},
+		{
+			"path":"pages/reseve/ReseveDetail",
+			"style":{
+				"navigationBarTitleText":"立即预定"
+			}
+		},
+		{
+			"path":"pages/scenic/ScenicInfo",
+			"style":{
+				"navigationBarTitleText":"景区须知"
+			}
+		},
+		{
+			"path":"pages/order/OrderList",
+			"style":{
+				"navigationBarTitleText": "订单列表",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path":"pages/order/OrderInfoBackMoney",
+			"style":{
+				"navigationBarTitleText": "申请退款"
+			}
+		},
+		{
+			"path":"pages/order/OrderBackProgress",
+			"style":{
+				"navigationBarTitleText": "退款进度"
+			}
+		},
+		{
+			"path":"pages/order/OrderInfo",
+			"style":{
+				"navigationBarTitleText":"订单详情"
+			}
+		},
+		{
+			"path":"pages/comment/OrderComment",
+			"style":{
+				"navigationBarTitleText":"评价"
+			}
+		},
+		{
+			"path":"pages/ad/AdDetail",
+			"style":{
+				"navigationBarTitleText":"广告详情"
+			}
+		},
+		{
+			"path":"pages/notice/NoticeDetail",
+			"style":{
+				"navigationBarTitleText":"公告详情"
+			}
+		},
+		{
+			"path":"pages/ask/AskMessage",
+			"style":{
+				"navigationBarTitleText":"提问"
+			}
+		},
+		{
+			"path":"pages/search/Search",
+			"style":{
+				"navigationBarTitleText":"搜索"
+			}
+		},
+		{
+			"path":"pages/mine/PersonalInfo",
+			"style":{
+				"navigationBarTitleText":"个人信息"
+			}
+		},
+		{
+			"path":"pages/mine/ContactsList",
+			"style":{
+				"navigationBarTitleText":"联系人"
+			}
+		},
+		{
+			"path":"pages/mine/AddContacts",
+			"style":{
+				"navigationBarTitleText":"添加联系人"
+			}
+		},
+		{
+			"path":"pages/mine/LeaveMessage",
+			"style":{
+				"navigationBarTitleText":"我的问答",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path":"pages/ask/LeaveMessageList",
+			"style":{
+				"navigationBarTitleText":"问题列表",
+				"enablePullDownRefresh": true
+			}
+		},
+		{
+			"path":"pages/ask/ReplyMessage",
+			"style":{
+				"navigationBarTitleText":"我要回复"
+			}
+		},
+		{
+			"path":"pages/ask/LeaveMessageInfo",
+			"style":{
+				"navigationBarTitleText":"问题详情"
+			}
+		},
+		{
+			"path":"pages/activity/ActivityList",
+			"style":{
+				"navigationBarTitleText":"活动列表",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path":"pages/scenic/ActivityTicketDetail",
+			"style":{
+				"navigationBarTitleText":"活动详情"
+			}
+		},
+		{
+			"path":"pages/scenic/InvitedTicketDetail",
+			"style":{
+				"navigationBarTitleText":"好友助力"
+			}
+		},
+		{
+			"path":"pages/activity/ShareActivityImage",
+			"style":{
+				"navigationBarTitleText":"活动分享"
+			}
+		},
+		{
+			"path":"pages/activity/ActivityRuleInfo",
+			"style":{
+				"navigationBarTitleText":"活动规则"
+			}
+		},
+		{
+			"path":"pages/collection/MyCollection",
+			"style":{
+				"navigationBarTitleText":"我的收藏",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path":"pages/coupon/Coupon",
+			"style":{
+				"navigationBarTitleText":"我的优惠券",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path":"pages/message/Message",
+			"style":{
+				"navigationBarTitleText":"消息",
+				"enablePullDownRefresh":true
+			}
+		},
+		{
+			"path":"pages/message/MessageInfo",
+			"style":{
+				"navigationBarTitleText":"消息详情"
+			}
+		}
+		
+	],
+	"globalStyle": {
+		"navigationBarTextStyle": "black",
+		"navigationBarTitleText": "店铺",
+		"navigationBarBackgroundColor": "#F8F8F8",
+		"backgroundColor": "#F8F8F8"
+	},
+	"tabBar": {
+		"color" : "#7A7E83",  
+        "selectedColor" : "#64BBAE",  
+        "borderStyle" : "black",  
+        "backgroundColor" : "#ffffff",
+		"list" : [
+            {  
+                "pagePath" : "pages/index/index",  
+                "iconPath" : "static/index.png",
+                "selectedIconPath" : "static/index_selected.png",  
+                "text" : "首页"
+            },  
+            {  
+                "pagePath" : "pages/custom/CustomService",  
+                "iconPath" : "static/custom_sevice.png",  
+                "selectedIconPath" : "static/custom_sevice_selected.png",
+                "text" : "客服"  
+            },
+			{
+			    "pagePath" : "pages/order/OrderAllList",  
+			    "iconPath" : "static/order.png",
+			    "selectedIconPath" : "static/order_selected.png",
+			    "text" : "订单"
+			},
+            {
+                "pagePath" : "pages/mine/index",  
+                "iconPath" : "static/mine.png",  
+                "selectedIconPath" : "static/mine_selected.png",  
+                "text" : "我的"  
+            }  
+        ]  
+	}
+}

@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "scenic-list-item": "/componets/ScenicListItem"
+  },
+  "component": true
+}

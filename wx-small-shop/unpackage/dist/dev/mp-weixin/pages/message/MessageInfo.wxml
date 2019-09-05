@@ -1,0 +1,1 @@
+<view class="m-i-container data-v-e6e6f436"><block wx:if="{{info}}"><view class="content data-v-e6e6f436"><view class="title _h1 data-v-e6e6f436">{{info.title}}</view><rich-text nodes="{{info.content}}" class="data-v-e6e6f436"></rich-text></view></block></view>

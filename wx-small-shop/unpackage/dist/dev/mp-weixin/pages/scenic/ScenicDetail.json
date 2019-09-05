@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "景区详情",
+  "usingComponents": {
+    "safe-protect": "/componets/SafeProtect",
+    "scenic-detail-header": "/pages/scenic/components/ScenicDetailHeader",
+    "scenic-detail-images": "/pages/scenic/components/ScenicDetailImages",
+    "scenic-detail-info": "/pages/scenic/components/ScenicDetailInfo",
+    "scenic-detail-hot": "/pages/scenic/components/ScenicDetailHot",
+    "scenic-detail-ticket-type": "/pages/scenic/components/ScenicDetailTicketType",
+    "scenic-detail-leave-message": "/pages/scenic/components/ScenicDetailLeaveMessage",
+    "scenic-detail-comment": "/pages/scenic/components/ScenicDetailComment",
+    "load-fail": "/componets/LoadFail"
+  }
+}

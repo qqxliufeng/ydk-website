@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "我的优惠券",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-segement-control": "/componets/uni/uni-segmented-control",
+    "coupon-item": "/pages/coupon/components/CouponItem"
+  }
+}

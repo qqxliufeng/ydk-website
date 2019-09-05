@@ -1,0 +1,16 @@
+{
+  "navigationBarTitleText": "活动详情",
+  "usingComponents": {
+    "ticket-header": "/pages/scenic/components/ScenicDetailHeader",
+    "ticket-images": "/pages/scenic/components/ScenicDetailImages",
+    "ticket-info": "/pages/scenic/components/ScenicDetailInfo",
+    "ticket-friend-info": "/pages/scenic/components/ActivityFriendInfo",
+    "ticket-comment": "/pages/scenic/components/ScenicDetailComment",
+    "ticket-notice-wrapper": "/componets/TicketNoticeWrapper",
+    "ticket-remark": "/componets/TicketRemark",
+    "activity-ticket-info": "/pages/scenic/components/ActivityTicketInfo",
+    "actviity-ticket-bottom": "/pages/scenic/components/ActivityTicketBottom",
+    "safe-protect": "/componets/SafeProtect",
+    "load-fail": "/componets/LoadFail"
+  }
+}

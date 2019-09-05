@@ -1,0 +1,1 @@
+<view class="t-n-container data-v-debda6ba"><view class="title _p data-v-debda6ba"><text class="title-info data-v-debda6ba">{{title||''}}</text></view><block wx:for="{{remarks}}" wx:for-item="item" wx:for-index="index" wx:key="index"><ticket-remark vue-id="{{'1-'+index}}" remark="{{item}}" class="data-v-debda6ba" bind:__l="__l"></ticket-remark></block></view>

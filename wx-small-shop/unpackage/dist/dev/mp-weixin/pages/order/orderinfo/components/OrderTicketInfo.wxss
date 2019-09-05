@@ -1,0 +1,74 @@
+.o-t-i-enable.data-v-72204c3b {
+  background-color: #fdfdfd;
+  color: #555;
+}
+.o-t-i-unenable.data-v-72204c3b {
+  background-color: #fafafa;
+  color: #b6b6b6;
+}
+.o-t-i-unenable .number.data-v-72204c3b {
+  color: #b6b6b6 !important;
+  text-decoration: line-through;
+}
+.title.data-v-72204c3b {
+  color: #888;
+  font-size: 25rpx;
+}
+.o-t-i-container.data-v-72204c3b {
+  background-color: #fff;
+}
+.o-t-i-container .o-t-i-container-title-wrapper.data-v-72204c3b {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  padding: 0.3rem 0.2rem;
+}
+.o-t-i-container .o-t-i-container-title-wrapper .o-t-i-container-title-no-wrapper.data-v-72204c3b {
+  -webkit-box-flex: 1.1;
+  -webkit-flex: 1.1;
+      -ms-flex: 1.1;
+          flex: 1.1;
+  overflow: hidden;
+  text-align: center;
+}
+.o-t-i-container .o-t-i-container-title-wrapper .o-t-i-container-title-no-wrapper .number.data-v-72204c3b {
+  font-size: 0.3rem;
+  margin-top: 0.2rem;
+  color: #c80000;
+}
+.o-t-i-container .o-t-i-container-title-wrapper .o-t-i-container-title-waiting-use-num-wrapper.data-v-72204c3b {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  text-align: center;
+}
+.o-t-i-container .o-t-i-container-title-wrapper .o-t-i-container-title-waiting-use-num-wrapper ._p.data-v-72204c3b:nth-child(2) {
+  font-size: 0.3rem;
+  margin-top: 0.2rem;
+}
+.o-t-i-container .o-t-i-container-title-wrapper .o-t-i-container-title-total-num-wrapper.data-v-72204c3b {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  text-align: center;
+}
+.o-t-i-container .o-t-i-container-title-wrapper .o-t-i-container-title-total-num-wrapper ._p.data-v-72204c3b:nth-child(2) {
+  font-size: 0.3rem;
+  margin-top: 0.2rem;
+}
+.o-t-i-container .o-t-i-container-title-wrapper .o-t-i-container-title-code-wrapper.data-v-72204c3b {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+  text-align: center;
+}
+.o-t-i-container .o-t-i-container-title-wrapper .o-t-i-container-title-code-wrapper text.data-v-72204c3b {
+  font-size: 0.4rem;
+  margin-top: 0.2rem;
+  display: inline-block;
+}
+

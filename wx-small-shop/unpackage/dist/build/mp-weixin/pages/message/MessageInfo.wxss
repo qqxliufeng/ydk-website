@@ -1,0 +1,11 @@
+.content.data-v-81ef556a {
+  padding-left: 20rpx;
+  padding-right: 20rpx;
+}
+.content .title.data-v-81ef556a {
+  text-align: center;
+  padding: 20rpx;
+  color: #333;
+  font-size: 35rpx;
+}
+

@@ -1,0 +1,20 @@
+.s-d-hot-container.data-v-29280984 {
+  -webkit-box-shadow: 0 2px 12px 0 rgba(0,0,0,0.1);
+          box-shadow: 0 2px 12px 0 rgba(0,0,0,0.1);
+  margin: 20rpx;
+  padding-bottom: 20rpx;
+}
+.s-d-hot-container .s-d-hot-title-wrapper.data-v-29280984 {
+  padding: 20rpx;
+  border-bottom: 1px solid #f5f5f5;
+}
+.s-d-hot-container .s-d-hot-title-wrapper .s-d-hot-title-icon.data-v-29280984 {
+  color: #ffad2c;
+  font-size: 40rpx;
+  vertical-align: middle;
+}
+.s-d-hot-container .s-d-hot-title-wrapper .s-d-hot-title-icon + text.data-v-29280984 {
+  vertical-align: middle;
+  font-size: 35rpx;
+}
+

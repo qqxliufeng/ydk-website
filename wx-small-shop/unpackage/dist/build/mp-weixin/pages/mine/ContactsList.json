@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "联系人",
+  "usingComponents": {
+    "uni-swipe-action": "/componets/uni/uni-swipe-action"
+  }
+}

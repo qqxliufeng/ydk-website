@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "景区须知",
+  "usingComponents": {
+    "uni-segement-control": "/componets/uni/uni-segmented-control"
+  }
+}

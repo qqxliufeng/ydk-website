@@ -1,0 +1,14 @@
+.o-i-header-container.data-v-1f0e7ebc {
+  background-color: #64bbae;
+  min-height: 100rpx;
+  padding: 20rpx;
+}
+.o-i-header-container .o-i-header-container-title.data-v-1f0e7ebc {
+  overflow: hidden;
+  margin-top: 20rpx;
+}
+.o-i-header-container .o-i-header-container-title text.data-v-1f0e7ebc:nth-child(1) {
+  color: #fff;
+  font-size: 32rpx;
+}
+

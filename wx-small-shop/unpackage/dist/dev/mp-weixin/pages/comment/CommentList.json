@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "评论列表",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "scenic-detail-comment-item": "/pages/scenic/components/ScenicDetailCommentItem",
+    "mpvue-picker": "/componets/uni/city/mpvuePicker"
+  }
+}

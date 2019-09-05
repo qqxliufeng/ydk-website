@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "申请退款",
+  "usingComponents": {
+    "uni-number-box": "/componets/uni/uni-number-box"
+  }
+}

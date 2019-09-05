@@ -1,0 +1,9 @@
+.activity-rule-info-container.data-v-fcac6998 {
+  padding: 20rpx;
+}
+.activity-rule-info-container .content-info.data-v-fcac6998 {
+  color: #333;
+  font-size: 32rpx;
+  line-height: 40rpx;
+}
+

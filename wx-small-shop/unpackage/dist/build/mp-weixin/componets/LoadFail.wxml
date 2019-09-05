@@ -1,0 +1,1 @@
+<view class="loading-fail-container data-v-e32f6872"><view class="iconfont empty-icon _p data-v-e32f6872"></view><button type="warning" round data-event-opts="{{[['tap',[['reload',['$event']]]]]}}" bindtap="__e" class="data-v-e32f6872">加载失败，点击重试…</button></view>

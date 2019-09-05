@@ -1,0 +1,1 @@
+<view class="h-n-notice-container _div data-v-e8f42760"><text class="data-v-e8f42760">{{"公告："+title}}</text><text data-event-opts="{{[['tap',[['noticeDetail',['$event']]]]]}}" style="color:#888888;" bindtap="__e" class="data-v-e8f42760">详情<text class="iconfont data-v-e8f42760"></text></text></view>

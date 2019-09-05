@@ -1,0 +1,1 @@
+<view class="n-d-container data-v-e8670710"><block wx:if="{{noticeInfo}}"><view class="content-wrapper data-v-e8670710"><view class="title _p data-v-e8670710">{{noticeInfo.notice.notice_title||'暂无标题'}}</view><view class="content _p data-v-e8670710">{{noticeInfo.notice.notice_content||'暂无内容'}}</view></view></block></view>

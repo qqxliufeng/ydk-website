@@ -1,0 +1,91 @@
+{
+  "pages": [
+    "pages/index/Splash",
+    "pages/index/index",
+    "pages/login/Login",
+    "pages/mine/index",
+    "pages/custom/CustomService",
+    "pages/order/OrderAllList",
+    "pages/order/OrderInfoPay",
+    "pages/order/OrderPayResult",
+    "pages/scenic/ScenicList",
+    "pages/comment/CommentList",
+    "pages/scenic/ScenicDetail",
+    "pages/scenic/TicketDetail",
+    "pages/reseve/ReseveDetail",
+    "pages/scenic/ScenicInfo",
+    "pages/order/OrderList",
+    "pages/order/OrderInfoBackMoney",
+    "pages/order/OrderBackProgress",
+    "pages/order/OrderInfo",
+    "pages/comment/OrderComment",
+    "pages/ad/AdDetail",
+    "pages/notice/NoticeDetail",
+    "pages/ask/AskMessage",
+    "pages/search/Search",
+    "pages/mine/PersonalInfo",
+    "pages/mine/ContactsList",
+    "pages/mine/AddContacts",
+    "pages/mine/LeaveMessage",
+    "pages/ask/LeaveMessageList",
+    "pages/ask/ReplyMessage",
+    "pages/ask/LeaveMessageInfo",
+    "pages/activity/ActivityList",
+    "pages/scenic/ActivityTicketDetail",
+    "pages/scenic/InvitedTicketDetail",
+    "pages/activity/ShareActivityImage",
+    "pages/activity/ActivityRuleInfo",
+    "pages/collection/MyCollection",
+    "pages/coupon/Coupon",
+    "pages/message/Message",
+    "pages/message/MessageInfo"
+  ],
+  "subPackages": [],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "店铺",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#F8F8F8"
+  },
+  "tabBar": {
+    "color": "#7A7E83",
+    "selectedColor": "#64BBAE",
+    "borderStyle": "black",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index/index",
+        "iconPath": "static/index.png",
+        "selectedIconPath": "static/index_selected.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/custom/CustomService",
+        "iconPath": "static/custom_sevice.png",
+        "selectedIconPath": "static/custom_sevice_selected.png",
+        "text": "客服"
+      },
+      {
+        "pagePath": "pages/order/OrderAllList",
+        "iconPath": "static/order.png",
+        "selectedIconPath": "static/order_selected.png",
+        "text": "订单"
+      },
+      {
+        "pagePath": "pages/mine/index",
+        "iconPath": "static/mine.png",
+        "selectedIconPath": "static/mine_selected.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "permission": {
+    "scope.userLocation": {
+      "desc": "更加精准为您推荐附近景区"
+    }
+  },
+  "usingComponents": {
+    "load-more": "/componets/uni/uni-load-more"
+  },
+  "sitemapLocation": "sitemap.json"
+}

@@ -1,0 +1,29 @@
+.content.data-v-f7a2ac96 {
+  margin-top: 66rpx;
+  padding: 30rpx 20rpx;
+  color: #666;
+  font-size: 30rpx;
+  overflow: hidden;
+}
+.info-wrapper.data-v-f7a2ac96 {
+  padding: 20rpx;
+}
+.info-wrapper .s-i-info-title.data-v-f7a2ac96 {
+  padding: 10rpx;
+  color: #333;
+  font-size: 30rpx;
+}
+.info-wrapper .s-i-info-line.data-v-f7a2ac96 {
+  padding: 10rpx;
+  color: #888;
+  font-size: 28.000000000000004rpx;
+}
+.info-wrapper .image.data-v-f7a2ac96 {
+  width: 100%;
+  float: left;
+  margin: 10rpx 0;
+}
+.info-wrapper .tag.data-v-f7a2ac96 {
+  margin: 10rpx;
+}
+

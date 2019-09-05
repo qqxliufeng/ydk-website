@@ -1,0 +1,1 @@
+<view class="s-l-header-container data-v-391ed31a"><view class="s-l-header-info-wrapper data-v-391ed31a"><text data-event-opts="{{[['tap',[['search',['$event']]]]]}}" class="s-l-header-input data-v-391ed31a" bindtap="__e"><view class="el-icon-search _i data-v-391ed31a"></view>景点、门票</text></view></view>

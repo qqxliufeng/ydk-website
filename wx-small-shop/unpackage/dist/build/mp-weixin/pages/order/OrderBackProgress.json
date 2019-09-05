@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "退款进度",
+  "usingComponents": {
+    "uni-step": "/componets/uni/step/uni-steps"
+  }
+}

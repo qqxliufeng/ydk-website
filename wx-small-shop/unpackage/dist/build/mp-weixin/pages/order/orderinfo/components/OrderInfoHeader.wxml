@@ -1,0 +1,1 @@
+<view class="o-i-header-container data-v-5392a6be"><view class="o-i-header-container-title data-v-5392a6be"><text class="data-v-5392a6be">{{stateTip}}</text><slot name="headerTitleInfo"></slot></view><slot name="headerInfo"></slot><slot name="headerBottomInfo"></slot></view>

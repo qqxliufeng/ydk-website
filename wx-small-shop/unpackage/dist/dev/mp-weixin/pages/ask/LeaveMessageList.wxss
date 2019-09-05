@@ -1,0 +1,15 @@
+.message-container.data-v-5cd6ae08 {
+  padding-bottom: 103.2rpx;
+}
+.l-m-list-ask.data-v-5cd6ae08 {
+  line-height: 86rpx;
+  color: #fff;
+  font-size: 30rpx;
+  background: #64bbae;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  text-align: center;
+}
+

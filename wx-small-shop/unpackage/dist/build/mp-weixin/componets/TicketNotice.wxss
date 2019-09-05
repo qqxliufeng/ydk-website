@@ -1,0 +1,19 @@
+.t-n-container .title.data-v-debda6ba {
+  padding: 20rpx;
+}
+.t-n-container .title.data-v-debda6ba:before {
+  content: '';
+  width: 3px;
+  height: 30rpx;
+  background-color: #64bbae;
+  display: inline-block;
+  vertical-align: middle;
+}
+.t-n-container .title .title-info.data-v-debda6ba {
+  display: inline-block;
+  margin-left: 30rpx;
+  color: #333;
+  font-size: 32rpx;
+  vertical-align: middle;
+}
+

@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "scenic-detail-comment-item": "/pages/scenic/components/ScenicDetailCommentItem",
+    "mpvue-picker": "/componets/uni/city/mpvuePicker"
+  },
+  "component": true
+}

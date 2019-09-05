@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "订单详情",
+  "usingComponents": {
+    "order-info-waiting-pay": "/pages/order/orderinfo/OrderInfoPay",
+    "order-info-waiting-use": "/pages/order/orderinfo/OrderInfoUse",
+    "order-info-waiting-comment": "/pages/order/orderinfo/OrderInfoComment",
+    "order-info-other": "/pages/order/orderinfo/OrderInfoOther"
+  }
+}

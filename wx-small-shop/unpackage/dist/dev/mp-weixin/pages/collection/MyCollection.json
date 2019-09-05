@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我的收藏",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "scenic-collection": "/pages/collection/components/ScenicCollection",
+    "ticket-collection": "/pages/collection/components/TicketCollection",
+    "uni-segement-control": "/componets/uni/uni-segmented-control"
+  }
+}

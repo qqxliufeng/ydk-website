@@ -1,0 +1,36 @@
+.r-d-ticket-info-remark-content-wrapper.data-v-72370592 {
+  margin: 30rpx 0;
+}
+.r-d-ticket-info-remark-content-wrapper .r-d-ticket-info-remark-content-title.data-v-72370592 {
+  padding: 10rpx;
+  vertical-align: bottom;
+  font-size: 30rpx;
+}
+.r-d-ticket-info-remark-content-wrapper .r-d-ticket-info-remark-content-title.data-v-72370592::before {
+  content: "";
+  display: inline-block;
+  width: 2px;
+  height: 30rpx;
+  margin-right: 20rpx;
+  background-color: #64bbae;
+  vertical-align: bottom;
+}
+.r-d-ticket-info-remark-content-wrapper .r-d-ticket-info-remark-content-title-info.data-v-72370592 {
+  margin-left: 55.00000000000001rpx;
+  line-height: 40rpx;
+}
+.r-d-ticket-info-remark-content-wrapper .r-d-ticket-info-remark-content-title-info text.data-v-72370592 {
+  display: inline-block;
+}
+.r-d-ticket-info-remark-content-wrapper .r-d-ticket-info-remark-content-title-info .remark-key.data-v-72370592 {
+  color: #333;
+  font-size: 28rpx;
+  width: 30%;
+  vertical-align: top;
+}
+.r-d-ticket-info-remark-content-wrapper .r-d-ticket-info-remark-content-title-info .remark-value.data-v-72370592 {
+  width: 60%;
+  color: #888;
+  font-size: 28rpx;
+}
+

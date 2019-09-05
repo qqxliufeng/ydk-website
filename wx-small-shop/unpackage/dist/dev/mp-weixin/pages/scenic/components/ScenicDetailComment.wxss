@@ -1,0 +1,44 @@
+.s-d-comment-container.data-v-31fd39d4 {
+  -webkit-box-shadow: 0 2px 12px 0 rgba(0,0,0,0.1);
+          box-shadow: 0 2px 12px 0 rgba(0,0,0,0.1);
+  margin: 20rpx;
+  border-radius: 10rpx;
+}
+.s-d-comment-container .s-d-comment-title-wrapper.data-v-31fd39d4 {
+  overflow: hidden;
+  padding: 20rpx;
+  border-bottom: 1px solid #f5f5f5;
+}
+.s-d-comment-container .s-d-comment-title-wrapper view.data-v-31fd39d4:nth-child(1) {
+  float: left;
+  color: #333;
+  font-size: 30rpx;
+}
+.s-d-comment-container .s-d-comment-title-wrapper view:nth-child(1) text.data-v-31fd39d4 {
+  color: #ffad2c;
+  font-size: 30rpx;
+}
+.s-d-comment-container .s-d-comment-title-wrapper text.data-v-31fd39d4:nth-child(2) {
+  float: right;
+  color: #888;
+  font-size: 25rpx;
+}
+.s-d-comment-container .s-d-comment-tags-wrapper.data-v-31fd39d4 {
+  padding: 20rpx;
+  overflow: hidden;
+}
+.s-d-comment-container .s-d-comment-tags-wrapper text.data-v-31fd39d4 {
+  float: left;
+  border: #f5f5f5 solid 1px;
+  border-radius: 20rpx;
+  margin-left: 20rpx;
+  margin-top: 20rpx;
+  padding: 10rpx 20rpx;
+  color: #333;
+  font-size: 24rpx;
+}
+.s-d-comment-container .s-d-comment-tags-wrapper .s-d-comment-tags-selected.data-v-31fd39d4 {
+  background-color: #ffad2c;
+  color: #fff;
+}
+

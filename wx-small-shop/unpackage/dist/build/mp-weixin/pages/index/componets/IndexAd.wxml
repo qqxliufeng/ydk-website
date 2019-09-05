@@ -1,0 +1,1 @@
+<view data-event-opts="{{[['tap',[['adClick',['$event']]]]]}}" class="index-ad-container data-v-62b40eca" bindtap="__e"><block wx:if="{{ad}}"><view class="image-wrapper data-v-62b40eca"><image src="{{$root.g0}}" mode="aspectFill" class="data-v-62b40eca"></image></view></block></view>

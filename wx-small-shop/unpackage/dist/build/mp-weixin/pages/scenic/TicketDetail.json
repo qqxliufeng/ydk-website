@@ -1,0 +1,15 @@
+{
+  "navigationBarTitleText": "门票详情",
+  "usingComponents": {
+    "ticket-header": "/pages/scenic/components/ScenicDetailHeader",
+    "ticket-images": "/pages/scenic/components/ScenicDetailImages",
+    "ticket-info": "/pages/scenic/components/ScenicDetailInfo",
+    "ticket-comment": "/pages/scenic/components/ScenicDetailComment",
+    "ticket-notice-wrapper": "/componets/TicketNoticeWrapper",
+    "ticket-remark": "/componets/TicketRemark",
+    "uni-icon": "/componets/uni/rate/uni-icon",
+    "load-fail": "/componets/LoadFail",
+    "tag": "/componets/uni/uni-tag",
+    "safe-protect": "/componets/SafeProtect"
+  }
+}

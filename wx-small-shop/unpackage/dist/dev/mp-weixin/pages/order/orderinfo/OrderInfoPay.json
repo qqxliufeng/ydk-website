@@ -1,0 +1,10 @@
+{
+  "usingComponents": {
+    "order-info-content": "/pages/order/orderinfo/components/OrderInfoContent",
+    "ticket-notice-wrapper": "/componets/TicketNoticeWrapper",
+    "order-business-info": "/componets/BusinessInfo",
+    "order-detail": "/pages/order/orderinfo/components/OrderDetail",
+    "count-down": "/componets/uni/uni-countdown"
+  },
+  "component": true
+}

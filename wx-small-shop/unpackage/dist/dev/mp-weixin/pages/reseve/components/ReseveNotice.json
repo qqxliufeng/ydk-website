@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "ticket-notice-wrapper": "/componets/TicketNoticeWrapper",
+    "business-info": "/componets/BusinessInfo",
+    "rate": "/componets/uni/rate/uni-rate",
+    "uni-icon": "/componets/uni/rate/uni-icon"
+  },
+  "component": true
+}

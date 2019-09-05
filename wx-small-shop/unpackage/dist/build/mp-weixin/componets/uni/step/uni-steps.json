@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "uni-icon": "/componets/uni/step/uni-icon"
+  },
+  "component": true
+}

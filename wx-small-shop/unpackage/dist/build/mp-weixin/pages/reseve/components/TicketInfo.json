@@ -1,0 +1,9 @@
+{
+  "usingComponents": {
+    "reseve-notice": "/pages/reseve/components/ReseveNotice",
+    "uni-number-box": "/componets/uni/uni-number-box",
+    "calendar": "/componets/uni/calendar/Calendar",
+    "popup-wrapper": "/componets/uni/lu-popup-wrapper"
+  },
+  "component": true
+}

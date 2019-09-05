@@ -1,0 +1,12 @@
+.index-ad-container.data-v-36f13ad7 {
+  border-top: #f5f5f5 solid 10rpx;
+  border-bottom: #f5f5f5 solid 10rpx;
+}
+.index-ad-container .image-wrapper.data-v-36f13ad7 {
+  height: 200rpx;
+}
+.index-ad-container .image-wrapper > image.data-v-36f13ad7 {
+  height: 100%;
+  width: 100%;
+}
+

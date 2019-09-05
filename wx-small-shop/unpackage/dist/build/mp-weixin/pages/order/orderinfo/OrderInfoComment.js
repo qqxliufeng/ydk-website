@@ -1,0 +1,10 @@
+(global["webpackJsonp"]=global["webpackJsonp"]||[]).push([["pages/order/orderinfo/OrderInfoComment"],{"0217":function(n,e,t){"use strict";Object.defineProperty(e,"__esModule",{value:!0}),e.default=void 0;var r=function(){return t.e("pages/order/orderinfo/components/OrderInfoContent").then(t.bind(null,"699a"))},o=function(){return t.e("componets/TicketNoticeWrapper").then(t.bind(null,"02d6"))},u=function(){return t.e("componets/BusinessInfo").then(t.bind(null,"77f7"))},i=function(){return t.e("pages/order/orderinfo/components/OrderDetail").then(t.bind(null,"7b39"))},c={name:"orderInfoUse",props:{detail:Object},components:{orderInfoContent:r,ticketNoticeWrapper:o,orderBusinessInfo:u,orderDetail:i},data:function(){return{}},watch:{detail:function(n,e){"NO_COMMENT"!==n.status&&this.$router.go(-1)}},methods:{backTop:function(){this.$emit("backTop")},comment:function(){this.$push(this.$mRouter.orderComment({orderId:this.detail.ord_id}))}}};e.default=c},2166:function(n,e,t){"use strict";var r=t("3fc1"),o=t.n(r);o.a},3048:function(n,e,t){"use strict";var r=function(){var n=this,e=n.$createElement;n._self._c},o=[];t.d(e,"a",function(){return r}),t.d(e,"b",function(){return o})},"3fc1":function(n,e,t){},6043:function(n,e,t){"use strict";t.r(e);var r=t("0217"),o=t.n(r);for(var u in r)"default"!==u&&function(n){t.d(e,n,function(){return r[n]})}(u);e["default"]=o.a},e0ca:function(n,e,t){"use strict";t.r(e);var r=t("3048"),o=t("6043");for(var u in o)"default"!==u&&function(n){t.d(e,n,function(){return o[n]})}(u);t("2166");var i=t("2877"),c=Object(i["a"])(o["default"],r["a"],r["b"],!1,null,"b703b6a4",null);e["default"]=c.exports}}]);
+;(global["webpackJsonp"] = global["webpackJsonp"] || []).push([
+    'pages/order/orderinfo/OrderInfoComment-create-component',
+    {
+        'pages/order/orderinfo/OrderInfoComment-create-component':(function(module, exports, __webpack_require__){
+            __webpack_require__('543d')['createComponent'](__webpack_require__("e0ca"))
+        })
+    },
+    [['pages/order/orderinfo/OrderInfoComment-create-component']]
+]);                

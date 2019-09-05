@@ -1,0 +1,181 @@
+.header-warpper.data-v-e8763476 {
+  padding: 30rpx;
+  box-shadow: 0 2px 12px 0 rgba(0,0,0,0.1);
+  margin: 20rpx;
+  margin-top: -40rpx;
+  position: relative;
+  z-index: 1;
+  background-color: #fff;
+  border-radius: 10rpx;
+}
+.header-warpper .title-wrapper.data-v-e8763476 {
+  margin-bottom: 20rpx;
+  overflow: hidden;
+}
+.header-warpper .title-wrapper text.data-v-e8763476:nth-child(1) {
+  float: left;
+  color: #333;
+  font-size: 35rpx;
+  vertical-align: middle;
+}
+.header-warpper .title-wrapper text.data-v-e8763476:nth-child(2) {
+  float: right;
+  color: #888;
+  font-size: 25rpx;
+  border-radius: 10rpx;
+  background-color: #ffad2c;
+  color: #fff;
+  padding: 0 20rpx;
+}
+.header-warpper .s-d-info-header-tags-wrapper.data-v-e8763476 {
+  padding-bottom: 30rpx;
+  border-bottom: 1px solid #f5f5f5;
+}
+.header-warpper .s-d-info-header-tags-wrapper .s-d-info-tag.data-v-e8763476 {
+  margin-right: 20rpx;
+  color: #64bbae;
+  font-size: 20rpx;
+}
+.header-warpper .s-d-info-header-tags-wrapper .s-d-info-header-saller.data-v-e8763476 {
+  float: right;
+  color: #888;
+  font-size: 25rpx;
+}
+.header-warpper .t-d-intro-title.data-v-e8763476 {
+  color: #333;
+  font-size: 32rpx;
+  margin-top: 20rpx;
+}
+.header-warpper .t-d-intro-content.data-v-e8763476 {
+  margin-top: 20rpx;
+  color: #888;
+  font-size: 25rpx;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+/* autoprefixer: off */
+  -webkit-box-orient: vertical;
+/* autoprefixer: on */
+  -webkit-line-clamp: 2;
+  overflow: hidden;
+}
+/* autoprefixer: off */
+.t-d-intro-ticket-name.data-v-e8763476 {
+  color: #ffad2c;
+  font-size: 30rpx;
+  padding: 30rpx 0;
+  border-bottom: 1px solid #f5f5f5;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+.t-d-intro-ticket-name .ticket-name.data-v-e8763476 {
+  flex: 1;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  margin-top: 5rpx;
+  color: #ffad2c;
+  font-size: 28rpx;
+}
+.t-d-intro-ticket-name .ticket-old-price.data-v-e8763476 {
+  color: #666;
+  font-size: 28.000000000000004rpx;
+  text-decoration: line-through;
+  margin-right: 20rpx;
+}
+.t-d-intro-ticket-name .ticket-price.data-v-e8763476 {
+  color: #ffad2c;
+  font-size: 40rpx;
+  background-color: #fff;
+}
+.t-d-intro-back-money.data-v-e8763476 {
+  padding: 20rpx;
+  overflow: hidden;
+  border-top: #f5f5f5 solid 1px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.t-d-intro-back-money text.data-v-e8763476 {
+  color: #333;
+  font-size: 28.000000000000004rpx;
+}
+.t-d-intro-back-money text ._i.data-v-e8763476 {
+  color: #ffad2c;
+}
+.t-d-intro-back-money button.data-v-e8763476 {
+  color: #fff;
+  background-color: #ffad2c;
+  border-radius: 10rpx;
+  padding: 10rpx 20rpx;
+}
+.sperator-line-2.data-v-e8763476 {
+  height: 86rpx;
+}
+.t-d-detail-buy-info.data-v-e8763476 {
+  padding: 20rpx;
+  box-shadow: 0 2px 12px 0 rgba(0,0,0,0.1);
+  margin: 20rpx;
+  border-radius: 10rpx;
+  background-color: #fff;
+}
+.t-d-detail-buy-info .t-d-detail-buy-info-title.data-v-e8763476 {
+  color: #333;
+  font-size: 35rpx;
+  padding: 20rpx 0;
+  border-bottom: 1px solid #f5f5f5;
+}
+.t-d-detail-buy-info .t-d-detail-buy-info-content.data-v-e8763476 {
+  overflow: hidden;
+  color: #888;
+  font-size: 30rpx;
+}
+.t-d-detail-buy-info .t-d-detail-buy-info-see-more.data-v-e8763476 {
+  color: #aaa;
+  font-size: 40rpx;
+  text-align: center;
+}
+.t-d-detail-buy-info .sperator-1.data-v-e8763476 {
+  background-color: #f5f5f5;
+  height: 2px;
+  width: 90%;
+  margin: 0 auto;
+}
+.t-d-detail-order-info-wrapper.data-v-e8763476 {
+  display: flex;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border-top: #f5f5f5 solid 1px;
+  height: 86rpx;
+  background: #fff;
+}
+.t-d-detail-order-info-wrapper .t-d-detail-order-info-action.data-v-e8763476 {
+  color: #fff;
+  font-size: 25rpx;
+  text-align: center;
+  background-color: #ffad2c;
+  line-height: 86rpx;
+  flex: 1;
+}
+.t-d-detail-order-info-wrapper .collection-wrapper.data-v-e8763476 {
+  display: flex;
+  padding: 0 30rpx;
+  width: 80rpx;
+  flex-direction: column;
+  justify-content: center;
+  height: 100%;
+  flex: 2;
+  color: #ffad2c;
+  font-size: 25rpx;
+}
+.t-d-detail-order-info-wrapper .other-goods.data-v-e8763476 {
+  flex: 1;
+  line-height: 86rpx;
+  background-color: #ff5353;
+  text-align: center;
+  color: #fff;
+  font-size: 25rpx;
+}
+

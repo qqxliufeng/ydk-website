@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "uni-popup-wrapper": "/componets/uni/lu-popup-wrapper"
+  },
+  "component": true
+}

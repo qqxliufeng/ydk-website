@@ -1,0 +1,44 @@
+.r-d-discount-container.data-v-1155a203 {
+  border-top: 20rpx solid #f5f5f5;
+  padding: 30rpx;
+}
+.r-d-discount-container .r-d-discount-title-wrapper.data-v-1155a203 {
+  color: #333;
+  font-size: 30rpx;
+  border-bottom: 1px solid #f5f5f5;
+  padding-bottom: 30rpx;
+}
+.r-d-discount-container .r-d-discount-item-wrapper.data-v-1155a203 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+  padding: 30rpx 0;
+  border-bottom: 1px solid #f5f5f5;
+}
+.r-d-discount-container .r-d-discount-item-wrapper .r-d-discount-item-tag.data-v-1155a203 {
+  background-color: #ffad2c;
+  display: inline-block;
+  width: 20rpx;
+  height: 20rpx;
+  line-height: 25rpx;
+  padding: 5rpx;
+  font-size: 20rpx;
+  color: #fff;
+  margin-right: 20rpx;
+}
+.r-d-discount-container .r-d-discount-item-wrapper .r-d-discount-item-name.data-v-1155a203 {
+  -webkit-box-flex: 1;
+  -webkit-flex: 1;
+      -ms-flex: 1;
+          flex: 1;
+}
+.r-d-discount-container .r-d-discount-item-wrapper .r-d-discount-item-des.data-v-1155a203 {
+  color: #ccc;
+  font-size: 28.000000000000004rpx;
+}
+

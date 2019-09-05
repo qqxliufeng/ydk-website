@@ -1,0 +1,8 @@
+{
+  "usingComponents": {
+    "order-ticket-info": "/pages/order/orderinfo/components/OrderTicketInfo",
+    "uni-qrcode": "/componets/uni/qrcode/tki-qrcode",
+    "popup-wrapper": "/componets/uni/lu-popup-wrapper"
+  },
+  "component": true
+}

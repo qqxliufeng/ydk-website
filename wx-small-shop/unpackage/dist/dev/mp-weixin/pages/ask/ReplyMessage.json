@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "我要回复",
+  "usingComponents": {
+    "scenic-info": "/pages/ask/components/LeaveMessageScenicInfo"
+  }
+}

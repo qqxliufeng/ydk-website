@@ -1,0 +1,41 @@
+.result-icon-container.data-v-0709ed50 {
+  text-align: center;
+  padding-top: 100rpx;
+}
+.result-icon-container .result-icon.data-v-0709ed50 {
+  font-size: 150rpx;
+  color: #64bbae;
+}
+.result-icon-container .result-icon-tip.data-v-0709ed50 {
+  color: #666;
+  font-size: 30rpx;
+  margin-top: 40rpx;
+}
+.result-action-container.data-v-0709ed50 {
+  margin-top: 150rpx;
+  text-align: center;
+}
+.result-action-container > ._p.data-v-0709ed50 {
+  margin-top: 50rpx;
+}
+.result-action-container .button.data-v-0709ed50 {
+  width: 50%;
+  color: #333;
+  font-size: 28rpx;
+  border: 1px solid #f5f5f5;
+  border-radius: 10rpx;
+  text-align: center;
+  padding: 10rpx 0;
+  margin: 0 auto;
+}
+.result-action-container .button1.data-v-0709ed50 {
+  width: 50%;
+  color: #fff;
+  font-size: 28rpx;
+  background-color: #64bbae;
+  border-radius: 10rpx;
+  padding: 10rpx 0;
+  margin: 0 auto;
+  margin-top: 40rpx;
+}
+

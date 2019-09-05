@@ -1,0 +1,8 @@
+{
+  "navigationBarTitleText": "问题列表",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "leave-message-item": "/pages/ask/components/LeaveMessageItem",
+    "mpvue-picker": "/componets/uni/city/mpvuePicker"
+  }
+}

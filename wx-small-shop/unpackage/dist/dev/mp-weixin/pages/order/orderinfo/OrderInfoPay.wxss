@@ -1,0 +1,112 @@
+.o-i-container .header-wrapper.data-v-24e98c18 {
+  background-color: #64bbae;
+  min-height: 100rpx;
+  padding-bottom: 20rpx;
+}
+.o-i-container .header-wrapper .state-wrapper.data-v-24e98c18 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+      -ms-flex-pack: justify;
+          justify-content: space-between;
+  padding: 20rpx;
+}
+.o-i-container .header-wrapper .state-wrapper .state.data-v-24e98c18 {
+  color: #fff;
+  font-size: 32rpx;
+}
+.o-i-container .header-wrapper .state-wrapper .o-i-release-pay-time.data-v-24e98c18 {
+  color: #fff;
+  font-size: 25rpx;
+  float: right;
+  line-height: 30rpx;
+}
+.o-i-container .header-wrapper .o-i-pay.data-v-24e98c18 {
+  border: 1rpx solid #fff;
+  width: 90%;
+  margin: 0 auto;
+  color: #fff;
+  text-align: center;
+  padding: 15rpx 0;
+  border-radius: 10rpx;
+  margin-top: 30rpx;
+  font-size: 30rpx;
+}
+.o-i-container .header-wrapper .auto-cancel-tip.data-v-24e98c18 {
+  color: #fff;
+  margin-top: 20rpx;
+  font-size: 25rpx;
+  margin-left: 20rpx;
+}
+.o-i-container .o-i-use-info.data-v-24e98c18 {
+  color: #eee;
+  font-size: 25rpx;
+  margin-top: 20rpx;
+  line-height: 30rpx;
+}
+.o-i-container .after-service-wrapper.data-v-24e98c18 {
+  margin-top: 20rpx;
+  border-radius: 8rpx;
+  background: #fff;
+  opacity: 0.8;
+  line-height: 30rpx;
+  padding: 20rpx;
+  overflow: hidden;
+  color: #888;
+  font-size: 25rpx;
+}
+.o-i-container .after-service-wrapper text.data-v-24e98c18:nth-of-type(1) {
+  float: left;
+}
+.o-i-container .after-service-wrapper text.data-v-24e98c18:nth-of-type(2) {
+  float: right;
+}
+.o-i-container .sperator-1.data-v-24e98c18 {
+  background-color: #f5f5f5;
+  height: 2px;
+  width: 90%;
+  margin: 0 auto;
+}
+.o-i-container .sperator-3.data-v-24e98c18 {
+  height: 86rpx;
+}
+.o-i-container .bottom-action-wrapper.data-v-24e98c18 {
+  overflow: hidden;
+  padding: 10rpx 20rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  border-top: 1px solid #f5f5f5;
+  background-color: #fff;
+  height: 86rpx;
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  font-size: 25rpx;
+}
+.o-i-container .bottom-action-wrapper .back-top.data-v-24e98c18 {
+  border-radius: 30rpx;
+  border: 1px solid #64bbae;
+  padding: 10rpx 20rpx;
+  color: #64bbae;
+  float: left;
+}
+.o-i-container .bottom-action-wrapper .comment.data-v-24e98c18 {
+  border-radius: 30rpx;
+  border: 1px solid #64bbae;
+  padding: 10rpx 20rpx;
+  float: right;
+  color: #64bbae;
+  margin-right: 30rpx;
+}
+.o-i-container .bottom-action-wrapper .back-money.data-v-24e98c18 {
+  border-radius: 30rpx;
+  background-color: #64bbae;
+  padding: 10rpx 20rpx;
+  float: right;
+  color: #fff;
+}
+

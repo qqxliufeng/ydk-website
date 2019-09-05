@@ -1,0 +1,6 @@
+{
+  "navigationBarTitleText": "提问",
+  "usingComponents": {
+    "scenic-info": "/pages/ask/components/LeaveMessageScenicInfo"
+  }
+}

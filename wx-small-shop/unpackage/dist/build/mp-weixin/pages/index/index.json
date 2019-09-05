@@ -1,0 +1,14 @@
+{
+  "navigationBarTitleText": "首页",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "index-header": "/pages/index/componets/IndexHeader",
+    "index-swiper": "/pages/index/componets/IndexSwiper",
+    "index-notice": "/pages/index/componets/IndexNotice",
+    "index-type": "/pages/index/componets/IndexType",
+    "index-activity": "/pages/index/componets/IndexActivity",
+    "index-hot": "/pages/index/componets/IndexHot",
+    "index-ad": "/pages/index/componets/IndexAd",
+    "index-like": "/pages/index/componets/IndexLike"
+  }
+}

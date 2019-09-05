@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "问题详情",
+  "usingComponents": {
+    "scenic-info": "/pages/ask/components/LeaveMessageScenicInfo",
+    "mpvue-picker": "/componets/uni/city/mpvuePicker"
+  }
+}

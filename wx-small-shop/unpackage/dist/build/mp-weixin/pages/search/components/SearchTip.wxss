@@ -1,0 +1,30 @@
+.h-t-tip-container.data-v-5c44118e {
+  margin-top: 86rpx;
+}
+.h-t-tip-container .h-t-tip-wrapper.data-v-5c44118e {
+  padding: 20rpx;
+}
+.h-t-tip-container .h-t-tip-wrapper .h-t-tip-title.data-v-5c44118e {
+  overflow: hidden;
+  width: 100%;
+  line-height: 40rpx;
+}
+.h-t-tip-container .h-t-tip-wrapper .h-t-tip-title text.data-v-5c44118e:nth-child(1) {
+  float: left;
+  color: #555;
+  font-size: 30rpx;
+  line-height: 60rpx;
+}
+.h-t-tip-container .h-t-tip-wrapper .h-t-tip-title text:nth-child(1) text.data-v-5c44118e {
+  color: #ffad2c;
+  margin-right: 10rpx;
+}
+.h-t-tip-container .h-t-tip-wrapper .h-t-tip-title text.data-v-5c44118e:nth-child(2) {
+  float: right;
+  color: #555;
+  font-size: 40rpx;
+}
+.h-t-tip-container .h-t-tip-tags-wrapper .h-t-tip-tag-item.data-v-5c44118e {
+  margin: 20rpx;
+}
+

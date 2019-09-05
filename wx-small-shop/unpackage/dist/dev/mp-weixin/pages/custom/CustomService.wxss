@@ -1,0 +1,43 @@
+.c-s-container > view.data-v-73a24e84 {
+  padding: 20rpx;
+  margin-left: 70rpx;
+  font-size: 28rpx;
+}
+.c-s-container > view text.data-v-73a24e84 {
+  display: inline-block;
+  color: #888;
+}
+.c-s-container > view text.data-v-73a24e84:nth-child(1) {
+  width: 30%;
+  vertical-align: middle;
+}
+.c-s-container > view text.data-v-73a24e84:nth-child(2) {
+  width: 60%;
+  margin-left: 5%;
+  vertical-align: middle;
+}
+.c-s-container .item.data-v-73a24e84 {
+  padding: 20rpx;
+}
+.c-s-container .item > text.data-v-73a24e84 {
+  font-size: 30rpx;
+}
+.c-s-container .item .phone.data-v-73a24e84 {
+  color: #64bbae;
+  font-size: 30rpx;
+  text-decoration: underline;
+}
+.c-s-container .c-s-title.data-v-73a24e84 {
+  color: #333;
+  font-size: 30rpx;
+  line-height: 40rpx;
+  margin-left: 0;
+  margin-top: 20rpx;
+}
+.c-s-container .c-s-title ._i.data-v-73a24e84 {
+  display: inline-block;
+  width: 20rpx;
+  height: 20rpx;
+  margin: 0 20rpx;
+}
+

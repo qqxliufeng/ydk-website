@@ -1,0 +1,139 @@
+.l-m-info-container .content-container.data-v-ed0a287e {
+  padding: 30rpx;
+  margin-bottom: 103.2rpx;
+}
+.l-m-info-container .content-container .content-wrapper.data-v-ed0a287e {
+  -webkit-box-shadow: 0 2px 12px 0 rgba(0,0,0,0.1);
+          box-shadow: 0 2px 12px 0 rgba(0,0,0,0.1);
+  padding: 30rpx;
+}
+.l-m-info-container .content-container .content-wrapper .reply-title-wrapper.data-v-ed0a287e {
+  border-top: 1px solid #f5f5f5;
+  padding-top: 20rpx;
+  margin-top: 20rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.l-m-info-container .content-container .content-wrapper .reply-title-wrapper text.data-v-ed0a287e:nth-child(1) {
+  color: #fff;
+  font-size: 20rpx;
+  background-color: #64bbae;
+  border-radius: 8rpx;
+  width: 30rpx;
+  height: 30rpx;
+  text-align: center;
+  display: inline-block;
+  margin-top: 1rpx;
+  margin-right: 10rpx;
+  line-height: 30rpx;
+  vertical-align: middle;
+}
+.l-m-info-container .content-container .content-wrapper .reply-title-wrapper text.data-v-ed0a287e:nth-child(2) {
+  color: #555;
+  font-size: 30rpx;
+  line-height: 45rpx;
+}
+.l-m-info-container .content-container .ask-content-card.data-v-ed0a287e {
+  margin-top: 30rpx;
+  -webkit-box-shadow: 0 2px 12px 0 rgba(0,0,0,0.1);
+          box-shadow: 0 2px 12px 0 rgba(0,0,0,0.1);
+  padding: 30rpx;
+}
+.l-m-info-container .content-container .ask-content-card .a-m-message-ask-info-wrapper .ask-title-wrapper.data-v-ed0a287e {
+  border-bottom: 1px solid #f5f5f5;
+  padding-bottom: 20rpx;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-align: center;
+  -webkit-align-items: center;
+      -ms-flex-align: center;
+          align-items: center;
+}
+.l-m-info-container .content-container .ask-content-card .a-m-message-ask-info-wrapper .ask-title-wrapper text.data-v-ed0a287e:nth-child(1) {
+  color: #fff;
+  font-size: 20rpx;
+  background-color: #ea741f;
+  border-radius: 8rpx;
+  width: 30rpx;
+  height: 30rpx;
+  text-align: center;
+  display: inline-block;
+  margin-top: 1rpx;
+  margin-right: 10rpx;
+  line-height: 30rpx;
+  vertical-align: middle;
+}
+.l-m-info-container .content-container .ask-content-card .a-m-message-ask-info-wrapper .ask-title-wrapper text.data-v-ed0a287e:nth-child(2) {
+  color: #555;
+  font-size: 30rpx;
+  line-height: 45rpx;
+}
+.l-m-info-container .content-container .ask-content-card .item-container.data-v-ed0a287e {
+  padding: 20rpx;
+  overflow: hidden;
+  border-bottom: 1px solid #f5f5f5;
+}
+.l-m-info-container .content-container .ask-content-card .item-container .user-info-container .report-wrapper.data-v-ed0a287e {
+  float: right;
+  padding: 10rpx 0;
+}
+.l-m-info-container .content-container .ask-content-card .item-container .user-info-container .report-wrapper .el-dropdown.data-v-ed0a287e {
+  text-align: right;
+}
+.l-m-info-container .content-container .ask-content-card .item-container .user-info-container .report-wrapper .report.data-v-ed0a287e {
+  border-radius: 30rpx;
+  border: #f5f5f5 solid 1px;
+  padding: 5rpx 10rpx;
+  color: #888;
+  font-size: 25rpx;
+}
+.l-m-info-container .content-container .ask-content-card .item-container .user-info-container image.data-v-ed0a287e {
+  width: 50rpx;
+  height: 50rpx;
+  border-radius: 50%;
+  vertical-align: middle;
+}
+.l-m-info-container .content-container .ask-content-card .item-container .user-info-container text.data-v-ed0a287e {
+  margin-left: 20rpx;
+  vertical-align: middle;
+}
+.l-m-info-container .content-container .ask-content-card .item-container .item-content.data-v-ed0a287e {
+  color: #888;
+  font-size: 28.000000000000004rpx;
+  padding: 20rpx;
+  line-height: 32rpx;
+}
+.l-m-info-container .content-container .ask-content-card .item-container .item-info-container.data-v-ed0a287e {
+  margin-top: 20rpx;
+  overflow: hidden;
+}
+.l-m-info-container .content-container .ask-content-card .item-container .item-info-container .l-q-footer-time.data-v-ed0a287e {
+  color: #d0d0d0;
+  font-size: 25rpx;
+}
+.l-m-info-container .content-container .ask-content-card .item-container .item-info-container .zan.data-v-ed0a287e {
+  float: right;
+  color: #64bbae;
+  font-size: 30rpx;
+}
+.l-m-info-container .reply.data-v-ed0a287e {
+  position: fixed;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 86rpx;
+  line-height: 86rpx;
+  background: #64bbae;
+  color: #fff;
+  text-align: center;
+  font-size: 34rpx;
+}
+

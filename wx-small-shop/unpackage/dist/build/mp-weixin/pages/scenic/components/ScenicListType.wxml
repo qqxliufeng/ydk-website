@@ -1,0 +1,1 @@
+<view class="s-l-tags-container data-v-115e6bb2"><block wx:for="{{tagsList}}" wx:for-item="item" wx:for-index="index" wx:key="index"><text data-event-opts="{{[['tap',[['itemClick',['$0'],[[['tagsList','',index]]]]]]]}}" class="{{['s-l-tags-item data-v-115e6bb2',(item.selected)?'s-l-tags-item-selected':'']}}" bindtap="__e">{{''+item.name+''}}</text></block></view>

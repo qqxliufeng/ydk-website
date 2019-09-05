@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "scenic-detail-ticket-item": "/pages/scenic/components/ScenicDetailTicketItem"
+  },
+  "component": true
+}

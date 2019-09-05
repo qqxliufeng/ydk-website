@@ -1,0 +1,13 @@
+.content-wrapper .title.data-v-317b7b3d {
+  padding: 20rpx;
+  text-align: center;
+  color: #333;
+  font-size: 32rpx;
+}
+.content-wrapper .content.data-v-317b7b3d {
+  padding: 20rpx;
+  color: #888;
+  font-size: 28.000000000000004rpx;
+  line-height: 30rpx;
+}
+

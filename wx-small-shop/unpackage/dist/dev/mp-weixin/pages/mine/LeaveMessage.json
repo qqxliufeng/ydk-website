@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "我的问答",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "uni-segement-control": "/componets/uni/uni-segmented-control",
+    "my-question": "/pages/ask/components/MyQuestion",
+    "my-reply": "/pages/ask/components/MyReply"
+  }
+}

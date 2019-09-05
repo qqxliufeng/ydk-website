@@ -1,0 +1,7 @@
+{
+  "navigationBarTitleText": "评价",
+  "usingComponents": {
+    "rate": "/componets/uni/rate/uni-rate",
+    "upload-img": "/componets/uni/upload/sunui-upimg-basic"
+  }
+}

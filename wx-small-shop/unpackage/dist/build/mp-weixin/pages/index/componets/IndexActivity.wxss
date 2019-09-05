@@ -1,0 +1,141 @@
+.home-activity-container.data-v-b199e8ee {
+  border-top: #f5f5f5 solid 10rpx;
+}
+.home-activity-container .h-h-title.data-v-b199e8ee {
+  color: #333;
+  font-size: 28.000000000000004rpx;
+  padding: 20rpx 20rpx;
+  border-bottom: 1px solid #f5f5f5;
+}
+.home-activity-container .h-h-title .see-more.data-v-b199e8ee {
+  float: right;
+  color: #888;
+  font-size: 25rpx;
+}
+.home-activity-container .item-container.data-v-b199e8ee {
+  width: 100%;
+  height: 450rpx;
+}
+.home-activity-container .item-container .scroll-view-h.data-v-b199e8ee {
+  height: 100%;
+  padding: 2% 0;
+  white-space: nowrap;
+}
+.home-activity-container .item-container .scroll-view-h .item-wrapper.data-v-b199e8ee {
+  display: inline-block;
+  overflow: hidden;
+  -webkit-box-shadow: #c8c7cc;
+          box-shadow: #c8c7cc;
+  width: 35%;
+  margin: 2%;
+  border-radius: 5px;
+  border: #f5f5f5 solid 1px;
+  -webkit-box-shadow: 0 2px 12px 0 rgba(0,0,0,0.1);
+          box-shadow: 0 2px 12px 0 rgba(0,0,0,0.1);
+}
+.home-activity-container .item-container .scroll-view-h .item-wrapper .scenic-name.data-v-b199e8ee {
+  color: #333;
+  font-size: 28rpx;
+  padding: 10rpx;
+}
+.home-activity-container .item-container .scroll-view-h .item-wrapper .ticket-name.data-v-b199e8ee {
+  padding: 5rpx 10rpx;
+  color: #ffad2c;
+  font-size: 24rpx;
+}
+.home-activity-container .item-container .scroll-view-h .item-wrapper .item-image-wrapper.data-v-b199e8ee {
+  height: 270rpx;
+  position: relative;
+}
+.home-activity-container .item-container .scroll-view-h .item-wrapper .item-image-wrapper > image.data-v-b199e8ee {
+  height: 100%;
+  width: 100%;
+  overflow: hidden;
+}
+.home-activity-container .item-container .scroll-view-h .item-wrapper .item-image-wrapper .item-tip-wrapper.data-v-b199e8ee {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 30rpx;
+  line-height: 30rpx;
+  color: #fff;
+  line-height: 30rpx;
+  padding: 6rpx 20rpx;
+}
+.home-activity-container .item-container .scroll-view-h .item-wrapper .item-image-wrapper .item-tip-wrapper .item-tip-bg.data-v-b199e8ee {
+  background: #f00;
+  opacity: 0.5;
+  border-bottom-right-radius: 30rpx;
+  position: absolute;
+  line-height: 30rpx;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  margin-right: 10rpx;
+}
+.home-activity-container .item-container .scroll-view-h .item-wrapper .item-image-wrapper .item-tip-wrapper .time-wrapper.data-v-b199e8ee {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+  padding-left: 10rpx;
+}
+.home-activity-container .item-container .scroll-view-h .item-wrapper .item-image-wrapper .item-tip-wrapper .item-tip-info-wrapper.data-v-b199e8ee {
+  position: relative;
+  z-index: 1;
+}
+.home-activity-container .item-container .scroll-view-h .item-wrapper .item-image-wrapper .item-title-wrapper.data-v-b199e8ee {
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  width: 100%;
+  z-index: 1;
+}
+.home-activity-container .item-container .scroll-view-h .item-wrapper .item-image-wrapper .item-title-wrapper .item-title-bg.data-v-b199e8ee {
+  background: #ffad2c;
+  opacity: 0.5;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+}
+.home-activity-container .item-container .scroll-view-h .item-wrapper .item-image-wrapper .item-title-wrapper .item-title.data-v-b199e8ee {
+  overflow: hidden;
+  white-space: nowrap;
+  -o-text-overflow: ellipsis;
+     text-overflow: ellipsis;
+  color: #fff;
+  padding: 0 10rpx;
+  line-height: 40rpx;
+  font-size: 24rpx;
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  position: relative;
+  z-index: 10;
+}
+.home-activity-container .item-container .scroll-view-h .item-wrapper .item-image-wrapper .item-title-wrapper .item-title .tip.data-v-b199e8ee {
+  font-size: 24rpx;
+  background-color: #ffad2c;
+  border-radius: 10rpx;
+  margin-left: 20rpx;
+  padding: 0 10rpx;
+}
+.home-activity-container .item-container .scroll-view-h .item-wrapper .item-image-wrapper .item-title-wrapper .item-title .tip-price.data-v-b199e8ee {
+  font-size: 32rpx;
+  font-weight: bold;
+  font-style: italic;
+}
+.home-activity-container .item-container .scroll-view-h .item-wrapper .time-tip.data-v-b199e8ee {
+  color: #333;
+  font-size: 25rpx;
+  padding: 5rpx;
+  margin-bottom: -10rpx;
+  margin-top: 10rpx;
+}
+

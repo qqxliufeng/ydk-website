@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "tag": "/componets/uni/uni-tag",
+    "rate": "/componets/uni/rate/uni-rate"
+  },
+  "component": true
+}

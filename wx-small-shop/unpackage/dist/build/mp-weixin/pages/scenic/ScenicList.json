@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "景区列表",
+  "enablePullDownRefresh": true,
+  "usingComponents": {
+    "scenic-header": "/pages/scenic/components/ScenicListHeader",
+    "scenic-type": "/pages/scenic/components/ScenicListType",
+    "scenic-list-item": "/componets/ScenicListItem"
+  }
+}
